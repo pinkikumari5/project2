@@ -1,4 +1,2 @@
-// add new feature
+// add new feature-form
 
-This project was created from local system.
-created by pinki kushwaha.
